@@ -1,0 +1,8 @@
+cat > .gitignore <<EOF
+*.log
+*.pdf
+*.html
+tmp/
+.env
+ssmtp.conf
+EOF
