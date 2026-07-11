@@ -534,14 +534,6 @@ chmod +x server_health_report.sh
 
 **Saurabh Thakre**
 
-AWS Certified Solutions Architect – Associate
-
-AWS DevOps Engineer
-
-GitHub Repository
-
-ServerReportAutomationScript
-
 ---
 
 # ⭐ Summary
