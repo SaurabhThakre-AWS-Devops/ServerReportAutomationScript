@@ -84,7 +84,6 @@ ServerReportAutomationScript/
 ├── copilot/server_health_report.sh
 ├── copilot/screenshots/
 |       ├── report.png
-|       ├── pdf.png
 |       └── email.png
 ├── README.md
 ```
