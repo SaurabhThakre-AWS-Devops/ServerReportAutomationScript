@@ -81,13 +81,12 @@ The script performs the following tasks:
 ServerReportAutomationScript/
 
 │
-├── server_health_report.sh
+├── copilot/server_health_report.sh
+├── copilot/screenshots/
+|       ├── report.png
+|       ├── pdf.png
+|       └── email.png
 ├── README.md
-├── screenshots/
-       ├── report.png
-       ├── pdf.png
-       └── email.png
-
 ```
 
 ---
